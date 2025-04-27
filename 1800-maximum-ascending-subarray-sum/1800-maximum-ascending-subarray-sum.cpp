@@ -2,20 +2,16 @@ class Solution {
 public:
     int maxAscendingSum(vector<int>& nums) {
         int n = nums.size();
-        int smallest=INT_MAX;
-        int idx=0;
-        for(int i =0;i<n;i++){
-            if(smallest>nums[i]){
-                smallest = min(smallest,nums[i]);
-                idx=i;
-            }
-        }   
-        int sum =nums[idx];
-        for(int i=idx+1;i<n;i++){
-            if(nums[i-1]<nums[i]){
-                sum=sum+nums[i];
-            }
+        int maxSum=nums[0],sum=nums[0];
+
+        for(int i=1;i<n;i++){
+            if(nums[i]>nums[i-1]){
+                sum += nums[i];
+            maxSum= max(sum,maxSum);
+            }    
+            else sum =nums[i];
         }
-        return sum;
+        maxSum= max(sum,maxSum);
+        return maxSum;
     }
 };
