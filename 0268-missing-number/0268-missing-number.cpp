@@ -2,15 +2,13 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
-        int misNum=n;
-        if(n==2 || n==1) return n;
+        int i;
         sort(nums.begin(),nums.end());
-        for(int i =1;i<n;i++){
-            if(nums[i]!=i){
-                misNum=i;
+        for(i=0;i<n;i++){
+            if(nums[i] != i){
                 break;
             }
         }
-        return misNum;
+        return i;
     }
 };
