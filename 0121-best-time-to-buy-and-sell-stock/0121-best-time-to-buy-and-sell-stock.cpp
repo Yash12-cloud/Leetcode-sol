@@ -1,23 +1,40 @@
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        int profit = INT_MIN;
-        int sum = 0;
-        int minIdx= -1,maxIdx= -1;
-        
-        for(int i = 0;i<n-1;i++){
-           for(int j = i+1;j<n;j++){
-            sum = -(prices[i]);
-            sum += prices[j];
-            profit = max(sum,profit);
-           }
+    int maxProfit(std::vector<int>& prices) {
+        int buy = prices[0];
+        int profit = 0;
+        for (int i = 1; i < prices.size(); i++) {
+            if (prices[i] < buy) {
+                buy = prices[i];
+            } else if (prices[i] - buy > profit) {
+                profit = prices[i] - buy;
+            }
         }
-        if(profit<0) return 0;
-            //profit = max(sum,profit);
-        else return profit;
-   }
+        return profit;
+    }
 };
+
+
+
+
+// class Solution {
+// public:
+//     int maxProfit(vector<int>& prices) {
+//         int n = prices.size();
+//         int profit = 0;
+//         int bp=0,sp=0;
+        
+//         for(int i = 0;i<n-1;i++){
+//            bp=prices[i];
+//            sp=prices[i+1];
+//            if
+//            }
+//         }
+//         if(profit<0) return 0;
+//             //profit = max(sum,profit);
+//         else return profit;
+//    }
+// };
 
 
 
