@@ -22,7 +22,7 @@ public:
 
             isPrime_2 = Prime(nums[i][col-1-i]);
 
-            if(isPrime_1 == 1){
+            if(isPrime_1 == 1){ // dono check krega ki hai ya nhi prime hoga tho max ma daal dega
                 max_Prime = max(max_Prime,nums[i][i]);
             }
             if(isPrime_2 == 1){
