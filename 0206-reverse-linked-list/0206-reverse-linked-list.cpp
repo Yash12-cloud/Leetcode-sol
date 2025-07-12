@@ -11,6 +11,8 @@ public:
             prev = curr;
             curr = Next;
         }
+        delete curr;
+        delete Next;
         return prev;
     }
 };
