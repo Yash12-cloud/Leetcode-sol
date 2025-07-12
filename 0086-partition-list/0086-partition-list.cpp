@@ -23,18 +23,23 @@ public:
                 tempA->next = temp;
                 temp = temp->next;
                 tempA = tempA->next;
-                tempA->next = NULL;
+                tempA->next = NULL;//tempA low ka last node pa aajayga
             }
             else{
                 tempB->next = temp;
                 temp = temp->next;
                 tempB = tempB->next;
-                tempB->next = NULL;
+                tempB->next = NULL;//tempB high ke last node pa aajayga
             }
         }
+        //connecting last node of low to second node of high skipping high->val == 0
         tempA->next = high->next;
+        ListNode* C = low->next;
+        delete low;
+        delete high;
 
-        return low->next;
+        //returning 2nd node of low as we use dummy node
+        return C;
 
     }
 };
