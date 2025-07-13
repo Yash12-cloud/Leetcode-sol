@@ -27,22 +27,21 @@ public:
     void reorderList(ListNode* head) {
         
         ListNode* mid = middleNode(head);
-        ListNode* c = reverseList(mid->next);
+        ListNode* tempB = reverseList(mid->next);
         mid->next = NULL;
 
         ListNode* a = head;
-        ListNode* temp = head;
+        ListNode* tempA = head;
 
-        ListNode* b = c;
+        ListNode* b = tempB;
 
-        while(b != NULL && a != NULL){
-            temp = a->next;
-            a->next = b;
-            a = temp;
-            b = c->next;
-            c->next = a;
-            c = b;
+        while(b){
+            tempA = a->next;//tempA ko samne kro
+            a->next = b;//a ko b sa connect kro
+            a = tempA;//a ko tempA pa lao
+            b = tempB->next;//b ko samne kro 
+            tempB->next = a;//tempB ko a sa connect kro
+            tempB = b;//tempB ko b pa lao
         }
-        
     }
 };
