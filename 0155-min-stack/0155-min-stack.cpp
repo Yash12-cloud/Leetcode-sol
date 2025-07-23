@@ -7,10 +7,13 @@ public:
         
     }
     
+    
     void push(int val) {
+        if (v.empty())
+            v.push_back(val);
+        else v.push_back(min(val, v.back()));
+            
         st.push(val);
-        minn = min(val,minn);
-        v.push_back(minn);
     }
     
     void pop() {
