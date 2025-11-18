@@ -6,7 +6,7 @@ public:
         int i =0;
         while(i<n){
             int correctIdx = nums[i]-1;
-            if(nums[correctIdx] == nums[i]) i++;
+            if(nums[correctIdx] == nums[i]) i++;//ya check bhi krra agar vo index ma already element hai ya nhi krke
             else {
                 swap(nums[i],nums[correctIdx]);
             }
