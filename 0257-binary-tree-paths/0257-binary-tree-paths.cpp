@@ -16,8 +16,10 @@ public:
         s += "->";
         s += to_string(root->val);
 
+        if(root->left)
         helper(root->left,s,str);
 
+        if(root->right)
         helper(root->right,s,str);
 
         if(root->left == NULL && root->right == NULL) str.push_back(s);
