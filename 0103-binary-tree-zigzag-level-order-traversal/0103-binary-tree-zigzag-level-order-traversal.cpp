@@ -21,14 +21,8 @@ public:
             res.push_back(root->val);
             return;     
         }
-        if(Lvl % 2 == 0){
-            PrintLvl(root->left,Lvl+1,target,res);//left
-            PrintLvl(root->right,Lvl+1,target,res);//right
-        }
-        else{
-            PrintLvl(root->right,Lvl+1,target,res);//right
-            PrintLvl(root->left,Lvl+1,target,res);//left
-        }
+        PrintLvl(root->left,Lvl+1,target,res);//left
+        PrintLvl(root->right,Lvl+1,target,res);//right
     }
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         vector<vector<int>> ans;
@@ -36,6 +30,9 @@ public:
         for(int i = 1; i <= n; i++){
             vector<int> res;
             PrintLvl(root,1,i,res);
+            if(i % 2 == 0){
+                reverse(res.begin(),res.end());
+            }
             ans.push_back(res);
         }
         return ans;
