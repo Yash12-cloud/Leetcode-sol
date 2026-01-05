@@ -14,7 +14,7 @@ public:
     void isPath(TreeNode* root,int targetSum,int currSum,bool &flag){
         if(root == NULL) return;
         currSum += root->val; 
-        if(currSum == targetSum){
+        if(currSum == targetSum && root->right == NULL && root->left == NULL){
             flag = true;
         }
 
