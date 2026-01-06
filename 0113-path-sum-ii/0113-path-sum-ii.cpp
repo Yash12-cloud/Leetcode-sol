@@ -15,7 +15,7 @@ public:
         if(root == NULL) return;
         targetSum -= root->val;
         res.push_back(root->val);
-        if(targetSum == 0){
+        if(targetSum == 0 && root->right == NULL && root->left == NULL){
             ans.push_back(res);
         }
         helper(root->left,targetSum,ans,res);
