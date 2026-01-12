@@ -1,20 +1,24 @@
 class Solution {
 public:
-int reverse(int num){
-    int r = 0;
-    while(num>0){
-        r *=10;
-        r += (num%10);
-        num /=10;
+int rev_num(int num){
+    int ans = 0;
+    while(num > 0){
+        int mod = num%10;
+        ans = ans*10 + mod;
+        num = num/10;
     }
-    return r;
+    return ans;
 }
     int countDistinctIntegers(vector<int>& nums) {
+        int n = nums.size();
+
+        for(int i = 0; i < n; i++){
+            int rev = rev_num(nums[i]);
+            nums.push_back(rev);
+        }
         unordered_set<int> s;
-        for(int i = 0; i<nums.size();i++){
-            // we will reduce T.C by not inserting reverse number back to array and directly adding it to set with nums[i]
-            s.insert(nums[i]);   
-            s.insert(reverse(nums[i]));
+        for(int i = 0; i < nums.size();i++){
+            s.insert(nums[i]);
         }
         return s.size();
     }
