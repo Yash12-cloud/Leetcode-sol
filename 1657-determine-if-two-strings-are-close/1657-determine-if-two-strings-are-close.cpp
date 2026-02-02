@@ -13,6 +13,9 @@ public:
         }
 
         for(auto x : s1){
+            if(s2.find(x.first) == s2.end()) return false;
+        }
+        for(auto x : s1){
             freq1[x.second]++;
         }
         for(auto x : s2){
