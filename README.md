@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,4 +22,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
