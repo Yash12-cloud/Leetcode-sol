@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        priority_queue< pair<double , vector<int> > > pq;
+        priority_queue< pair<double , vector<int> > > pq; // hap yaha aasa pair banayage usma distane ko double m store krega aur ek vector ko last ma ans ma push bhi krna hai isliya
         for(auto x : points){
             double dist = sqrt((x[0]*x[0])+(x[1]*x[1]));
             pq.push({dist, {x[0],x[1]} });
