@@ -1,6 +1,7 @@
 class Solution {
 public:
     int lastStoneWeight(vector<int>& stones) {
+        // without heap O(n2 log n)
         while(stones.size() > 1){
             sort(stones.begin(),stones.end());
             int temp1 = stones[stones.size()-1];
