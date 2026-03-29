@@ -9,6 +9,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1046-last-stone-weight](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1046-last-stone-weight/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -26,6 +27,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -80,4 +82,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 <!---LeetCode Topics End-->
