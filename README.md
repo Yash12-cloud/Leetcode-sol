@@ -12,6 +12,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1046-last-stone-weight](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1046-last-stone-weight/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +88,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1710-maximum-units-on-a-truck](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 <!---LeetCode Topics End-->
