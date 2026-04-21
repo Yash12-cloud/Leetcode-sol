@@ -6,7 +6,7 @@ public:
         int j = people.size()-1;
 
         int boat = 0;
-
+        //pair of fat + lightweight will be done 
         while(i<=j){
             if(people[i]+people[j] <= limit){
                 boat++;
