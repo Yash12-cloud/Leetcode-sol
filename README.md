@@ -15,6 +15,7 @@
 | [1046-last-stone-weight](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1046-last-stone-weight/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
