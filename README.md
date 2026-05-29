@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0075-sort-colors/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -79,6 +80,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
