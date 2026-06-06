@@ -10,16 +10,16 @@ public:
 
         int lastendtime = intervals[0][1];
 
-        int ans = 0;
+        int numOfNonOverlappingInterval = 0;
 
         for(int i =  1; i < n; i++){
             if(intervals[i][0] < lastendtime){ // overlapping or not
-                ans++;
+                numOfNonOverlappingInterval++;
             }
             else{
                 lastendtime = intervals[i][1];
             }
         }
-        return ans;
+        return numOfNonOverlappingInterval;
     }
 };
