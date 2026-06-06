@@ -11,16 +11,16 @@ public:
 
         int lastendtime = points[0][1];
 
-        int numOfNonMergingInterval = 0;
+        int numOfNonOverlappingInterval = 0;
 
         for(int i =  1; i < n; i++){
             if(points[i][0] <= lastendtime){ // overlapping or not
-                numOfNonMergingInterval++;
+                numOfNonOverlappingInterval++;
             }
             else{
                 lastendtime = points[i][1];
             }
         }
-        return points.size() - numOfNonMergingInterval;// total interval - non overlapping interval count 
+        return points.size() - numOfNonOverlappingInterval;// total interval - non overlapping interval count 
     }
 };
