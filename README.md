@@ -98,6 +98,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
@@ -117,6 +118,11 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
