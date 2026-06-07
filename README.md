@@ -14,6 +14,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -117,4 +118,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
