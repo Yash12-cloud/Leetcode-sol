@@ -9,6 +9,7 @@
 | [0056-merge-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0198-house-robber](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -119,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
+| [0198-house-robber](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Combinatorics
