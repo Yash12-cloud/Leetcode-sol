@@ -14,7 +14,7 @@ public:
         int sum = 0;
         for(int v = 1; v<=k; v++){
             if(target - v < 0) continue;
-            sum = ((sum % mod ) +  (f(n-1,k,target-v)) % mod) % mod;
+            sum = ((sum) +  f(n-1,k,target-v)) % mod;
         }
         return dp[n][target] = sum % mod;
     }
