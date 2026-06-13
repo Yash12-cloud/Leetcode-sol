@@ -123,6 +123,7 @@
 | [0198-house-robber](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
