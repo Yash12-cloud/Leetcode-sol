@@ -13,6 +13,7 @@
 | [0189-rotate-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -41,6 +42,7 @@
 | [0056-merge-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -83,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -98,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -108,6 +112,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
@@ -140,4 +145,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
