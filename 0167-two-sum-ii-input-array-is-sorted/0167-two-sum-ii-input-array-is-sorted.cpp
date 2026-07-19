@@ -12,12 +12,9 @@ public:
                 ans.push_back(high+1);
                 break;
             }
-            if(nums[low] + nums[high] < target){
-                low++;
-            }
-            if(nums[low] + nums[high] > target){
-                high--;
-            }
+            else if(nums[low] + nums[high] < target) low++;
+            // nums[low] + nums[high] > target
+            else high--;
         }
         return ans;
     }
