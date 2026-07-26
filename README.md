@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -36,6 +37,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -141,6 +143,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
