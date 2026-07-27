@@ -29,6 +29,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1046-last-stone-weight](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -57,6 +58,7 @@
 | [0881-boats-to-save-people](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1710-maximum-units-on-a-truck](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 ## Heap (Priority Queue)
@@ -67,6 +69,7 @@
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
