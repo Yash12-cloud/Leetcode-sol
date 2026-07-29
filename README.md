@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0075-sort-colors/) | Medium |
@@ -83,6 +84,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0075-sort-colors/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0189-rotate-array/) | Medium |
