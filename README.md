@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0075-sort-colors/) | Medium |
@@ -96,6 +97,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0048-rotate-image/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -129,6 +131,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
