@@ -25,6 +25,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -138,6 +139,7 @@
 | [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
+| [0486-predict-the-winner](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
@@ -162,6 +164,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0486-predict-the-winner](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 ## Combinatorics
@@ -180,4 +183,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
