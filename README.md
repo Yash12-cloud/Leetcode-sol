@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -57,6 +58,7 @@
 | [0075-sort-colors](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -109,6 +111,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0781-rabbits-in-forest](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0781-rabbits-in-forest/) | Medium |
@@ -121,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
