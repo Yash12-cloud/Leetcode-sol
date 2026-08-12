@@ -32,6 +32,7 @@
 | [0486-predict-the-winner](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0704-binary-search](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0781-rabbits-in-forest](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0781-rabbits-in-forest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0881-boats-to-save-people/) | Medium |
@@ -139,6 +140,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0704-binary-search](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0704-binary-search/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
