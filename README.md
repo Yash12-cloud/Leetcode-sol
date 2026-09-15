@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0056-merge-intervals/) | Medium |
@@ -139,6 +140,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
