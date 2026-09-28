@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0056-merge-intervals/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0118-pascals-triangle/) | Easy |
@@ -119,6 +120,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0064-minimum-path-sum/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -186,6 +188,7 @@
 | [0053-maximum-subarray](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0064-minimum-path-sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0198-house-robber/) | Medium |
