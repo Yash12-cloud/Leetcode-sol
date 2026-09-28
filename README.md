@@ -163,6 +163,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0486-predict-the-winner/) | Medium |
@@ -189,6 +190,7 @@
 | [0062-unique-paths](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0064-minimum-path-sum/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0118-pascals-triangle](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0198-house-robber/) | Medium |
@@ -222,4 +224,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0486-predict-the-winner/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
