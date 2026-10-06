@@ -38,6 +38,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0486-predict-the-winner/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0704-binary-search/) | Easy |
@@ -155,6 +156,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0704-binary-search/) | Easy |
 ## Sliding Window
