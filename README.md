@@ -23,6 +23,7 @@
 | [0118-pascals-triangle](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -154,6 +155,7 @@
 | [0035-search-insert-position](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0268-missing-number/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yash12-cloud/Leetcode-sol/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
